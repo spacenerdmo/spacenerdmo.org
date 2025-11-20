@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://spacenerdmo.micro.blog/2025/11/17/tfw-you-finally-solve-a.html",
+				
+				"content_html": "<p>TFW you finally solve a problem that has been plaguing you for more than a year and the answer was staring you the face the whole time.</p>\n",
+				"content_text": "TFW you finally solve a problem that has been plaguing you for more than a year and the answer was staring you the face the whole time. \n",
+				"date_published": "2025-11-17T14:23:51-08:00",
+				"url": "https://spacenerdmo.org/2025/11/17/tfw-you-finally-solve-a.html"
+			},
+			{
 				"id": "http://spacenerdmo.micro.blog/2025/11/11/me-dusts-off-social-media.html",
 				
 				"content_html": "<p>/me dusts off social media timeline.</p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/06/28/crossing-the-rosario-strait-on.html",
 				
-				"content_html": "<p>Crossing the Rosario Strait on our way to Friday Harbor this fine Saturday afternoon.</p>\n<p><img src=\"uploads/2025/d5d04a2288.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/abcb5cf093.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "Crossing the Rosario Strait on our way to Friday Harbor this fine Saturday afternoon. \n\n\n\n<img src=\"uploads/2025/d5d04a2288.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/abcb5cf093.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Crossing the Rosario Strait on our way to Friday Harbor this fine Saturday afternoon.</p>\n<p><img src=\"https://spacenerdmo.org/uploads/2025/d5d04a2288.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2025/abcb5cf093.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Crossing the Rosario Strait on our way to Friday Harbor this fine Saturday afternoon. \n\n\n\n<img src=\"https://spacenerdmo.org/uploads/2025/d5d04a2288.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2025/abcb5cf093.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-28T11:28:26-08:00",
 				"url": "https://spacenerdmo.org/2025/06/28/crossing-the-rosario-strait-on.html"
 			},
