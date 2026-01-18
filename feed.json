@@ -1,11 +1,83 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "SpaceNerdMo",
-	"icon": "https://www.gravatar.com/avatar/9f56bea4726b1406b53ab350549d8996?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+	"icon": "https://micro.blog/spacenerdmo/avatar.jpg",
 	"home_page_url": "https://spacenerdmo.org/",
 	"feed_url": "https://spacenerdmo.org/feed.json",
 	"items": [
 		
+			{
+				"id": "http://spacenerdmo.micro.blog/2026/01/18/in-an-attempt-to-start.html",
+				
+				"content_html": "<p>In an attempt to start this next orbit around the sun in a better place mentally I nuked my Bluesky account today.</p>\n",
+				"content_text": "In an attempt to start this next orbit around the sun in a better place mentally I nuked my Bluesky account today.\n",
+				"date_published": "2026-01-18T09:42:24-08:00",
+				"url": "https://spacenerdmo.org/2026/01/18/in-an-attempt-to-start.html"
+			},
+			{
+				"id": "http://spacenerdmo.micro.blog/2025/12/28/troll-hunting-in-portland-oregon.html",
+				
+				"content_html": "<p>Troll hunting in Portland Oregon today.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Troll hunting in Portland Oregon today. \n\n\n\n<img src=\"uploads/2025/59d84ea5e2.jpg\" width=\"450\" height=\"600\" alt=\"Large wooden troll lifting the roof of a small red house and looking in. \"><img src=\"uploads/2025/957d4a82e0.jpg\" width=\"450\" height=\"600\" alt=\"Face of a large wooden troll seen from inside the house. \">\n",
+				"date_published": "2025-12-28T14:09:04-08:00",
+				"url": "https://spacenerdmo.org/2025/12/28/troll-hunting-in-portland-oregon.html"
+			},
+			{
+				"id": "http://spacenerdmo.micro.blog/2025/12/25/best-shot-yet.html",
+				
+				"content_html": "<p>Best shot yet!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Best shot yet!\n\n\n\n<img src=\"uploads/2025/a97a3e4a4a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-12-25T16:10:17-08:00",
+				"url": "https://spacenerdmo.org/2025/12/25/best-shot-yet.html"
+			},
+			{
+				"id": "http://spacenerdmo.micro.blog/2025/12/25/having-a-bit-of-fun.html",
+				
+				"content_html": "<p>Having a bit of fun while the turkey is in the slow cooker.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Having a bit of fun while the turkey is in the slow cooker. \n\n\n\n<img src=\"uploads/2025/8cd9d684f0.jpg\" width=\"450\" height=\"600\" alt=\"Cards, dice, and stones from the game of Unearth on a table with a couple of black and white pictures of me printed on thermal recipt paper. \">\n",
+				"date_published": "2025-12-25T15:32:07-08:00",
+				"url": "https://spacenerdmo.org/2025/12/25/having-a-bit-of-fun.html"
+			},
+			{
+				"id": "http://spacenerdmo.micro.blog/2025/12/25/meowy-christmas.html",
+				
+				"content_html": "<p>Meowy Christmas!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Meowy Christmas!\n\n\n\n<img src=\"uploads/2025/051bc02e98.jpg\" width=\"450\" height=\"600\" alt=\"Fluffy cat sitting in front of a fireplace with full Christmas stockings hung just above it. \">\n",
+				"date_published": "2025-12-25T06:52:43-08:00",
+				"url": "https://spacenerdmo.org/2025/12/25/meowy-christmas.html"
+			},
+			{
+				"id": "http://spacenerdmo.micro.blog/2025/12/22/snoopy-test-to-see-if.html",
+				
+				"content_html": "<p>Snoopy test to see if images are handled properly.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Snoopy test to see if images are handled properly. \n\n\n\n<img src=\"https://spacenerdmo.org/uploads/2025/e4aa9a83b0.jpg\" width=\"450\" height=\"600\" alt=\"Inflatable Snoopy on his dog house light up at night surrounded by red and white Christmas lights. \">\n",
+				"date_published": "2025-12-22T18:22:28-08:00",
+				"url": "https://spacenerdmo.org/2025/12/22/snoopy-test-to-see-if.html"
+			},
+			{
+				"id": "http://spacenerdmo.micro.blog/2025/12/22/i-spent-a-little-time.html",
+				
+				"content_html": "<p>I spent a little time revising my cross-posting script however I don&rsquo;t have anything useful to post about right now so this will have to suffice.</p>\n",
+				"content_text": "I spent a little time revising my cross-posting script however I don't have anything useful to post about right now so this will have to suffice.\n",
+				"date_published": "2025-12-22T17:18:49-08:00",
+				"url": "https://spacenerdmo.org/2025/12/22/i-spent-a-little-time.html"
+			},
+			{
+				"id": "http://spacenerdmo.micro.blog/2025/12/07/in-a-fit-of-rage.html",
+				
+				"content_html": "<p>In a fit of rage I turned off autocorrect on my phone a few weeks back. Since then I’ve noticed it takes me a little longer to type a message to fix spelling and pay more attention to my words. I call that a win. 😊</p>\n",
+				"content_text": "In a fit of rage I turned off autocorrect on my phone a few weeks back. Since then I’ve noticed it takes me a little longer to type a message to fix spelling and pay more attention to my words. I call that a win. 😊\n",
+				"date_published": "2025-12-07T10:06:15-08:00",
+				"url": "https://spacenerdmo.org/2025/12/07/in-a-fit-of-rage.html"
+			},
+			{
+				"id": "http://spacenerdmo.micro.blog/2025/11/19/ive-updated-my-projects-page.html",
+				
+				"content_html": "<p>I&rsquo;ve updated my <a href=\"https://spacenerdmo.org/code/\">projects</a> page to include some old mobile apps that got dropped in my previous moves between blogs and code host platforms. Now those who want to see my terrible code from a decade ago can find it. 😝</p>\n",
+				"content_text": "I've updated my [projects](https://spacenerdmo.org/code/) page to include some old mobile apps that got dropped in my previous moves between blogs and code host platforms. Now those who want to see my terrible code from a decade ago can find it. 😝\n",
+				"date_published": "2025-11-19T17:54:59-08:00",
+				"url": "https://spacenerdmo.org/2025/11/19/ive-updated-my-projects-page.html"
+			},
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/11/17/tfw-you-finally-solve-a.html",
 				
@@ -33,23 +105,23 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/08/01/visited-the-activist-trolls-at.html",
 				
-				"content_html": "<p>Visited the activist trolls at filoli yesterday evening. 😊</p>\n<p><img src=\"uploads/2025/a7099764dc744e31b30a54f4d99f99bb.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/3bacf0174827442d93cb22b0fca7c7ff.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/1e1a923c8637481480e60c8261febaeb.jpg\" width=\"491\" height=\"600\" alt=\"\"><img src=\"uploads/2025/dbff3e5bde384a369a82472fe4bcbeb0.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/95746207852a4e4e9f034ba8a0704f85.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "Visited the activist trolls at filoli yesterday evening. 😊\n\n<img src=\"uploads/2025/a7099764dc744e31b30a54f4d99f99bb.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/3bacf0174827442d93cb22b0fca7c7ff.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/1e1a923c8637481480e60c8261febaeb.jpg\" width=\"491\" height=\"600\" alt=\"\"><img src=\"uploads/2025/dbff3e5bde384a369a82472fe4bcbeb0.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/95746207852a4e4e9f034ba8a0704f85.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Visited the activist trolls at filoli yesterday evening. 😊</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Visited the activist trolls at filoli yesterday evening. 😊\n\n<img src=\"https://spacenerdmo.org/uploads/2025/a7099764dc744e31b30a54f4d99f99bb.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2025/3bacf0174827442d93cb22b0fca7c7ff.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2025/1e1a923c8637481480e60c8261febaeb.jpg\" width=\"491\" height=\"600\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2025/dbff3e5bde384a369a82472fe4bcbeb0.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2025/95746207852a4e4e9f034ba8a0704f85.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-08-01T08:19:42-08:00",
 				"url": "https://spacenerdmo.org/2025/08/01/visited-the-activist-trolls-at.html"
 			},
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/07/31/troll-hunting-while-in-the.html",
 				
-				"content_html": "<p>Troll hunting while in the SF Bay Area.</p>\n<img src=\"uploads/2025/738bbde9aee34acbb177f10b3e4de59e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"content_text": "Troll hunting while in the SF Bay Area. \n\n<img src=\"uploads/2025/738bbde9aee34acbb177f10b3e4de59e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Troll hunting while in the SF Bay Area.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Troll hunting while in the SF Bay Area. \n\n<img src=\"https://spacenerdmo.org/uploads/2025/738bbde9aee34acbb177f10b3e4de59e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-07-31T16:56:23-08:00",
 				"url": "https://spacenerdmo.org/2025/07/31/troll-hunting-while-in-the.html"
 			},
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/06/28/crossing-the-rosario-strait-on.html",
 				
-				"content_html": "<p>Crossing the Rosario Strait on our way to Friday Harbor this fine Saturday afternoon.</p>\n<p><img src=\"https://spacenerdmo.org/uploads/2025/d5d04a2288.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2025/abcb5cf093.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_html": "<p>Crossing the Rosario Strait on our way to Friday Harbor this fine Saturday afternoon.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Crossing the Rosario Strait on our way to Friday Harbor this fine Saturday afternoon. \n\n\n\n<img src=\"https://spacenerdmo.org/uploads/2025/d5d04a2288.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2025/abcb5cf093.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-28T11:28:26-08:00",
 				"url": "https://spacenerdmo.org/2025/06/28/crossing-the-rosario-strait-on.html"
@@ -65,7 +137,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/06/13/is-it-the-weekend-yet.html",
 				
-				"content_html": "<p>Is it the weekend yet?</p>\n<img src=\"https://spacenerdmo.org/uploads/2025/12cebe60e1.jpg\" width=\"600\" height=\"555\" alt=\"\">\n",
+				"content_html": "<p>Is it the weekend yet?</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Is it the weekend yet?\n\n\n\n<img src=\"https://spacenerdmo.org/uploads/2025/12cebe60e1.jpg\" width=\"600\" height=\"555\" alt=\"\">\n",
 				"date_published": "2025-06-13T09:02:10-08:00",
 				"url": "https://spacenerdmo.org/2025/06/13/is-it-the-weekend-yet.html"
@@ -81,7 +153,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/06/11/diner-and-drinks-at-the.html",
 				
-				"content_html": "<p>Diner and drinks at the waterfront. Nice way to get through midweek.</p>\n<p><img src=\"https://spacenerdmo.org/uploads/2025/456638c4e3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2025/50f4dabd0e.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_html": "<p>Diner and drinks at the waterfront. Nice way to get through midweek.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Diner and drinks at the waterfront. Nice way to get through midweek. \n\n\n\n<img src=\"https://spacenerdmo.org/uploads/2025/456638c4e3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2025/50f4dabd0e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-11T19:45:56-08:00",
 				"url": "https://spacenerdmo.org/2025/06/11/diner-and-drinks-at-the.html"
@@ -153,7 +225,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/03/23/got-my-new-rig-yesterday.html",
 				
-				"content_html": "<p>Got my new rig yesterday. It’s a bit bigger than I expected but oh is it nice.</p>\n<img src=\"https://spacenerdmo.org/uploads/2025/43a09c7743.jpg\" width=\"474\" height=\"600\" alt=\"A system 76 thelio sitting on the floor. \">\n",
+				"content_html": "<p>Got my new rig yesterday. It’s a bit bigger than I expected but oh is it nice.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Got my new rig yesterday. It’s a bit bigger than I expected but oh is it nice. \n\n\n\n<img src=\"https://spacenerdmo.org/uploads/2025/43a09c7743.jpg\" width=\"474\" height=\"600\" alt=\"A system 76 thelio sitting on the floor. \">\n",
 				"date_published": "2025-03-23T07:53:11-08:00",
 				"url": "https://spacenerdmo.org/2025/03/23/got-my-new-rig-yesterday.html"
@@ -169,7 +241,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/02/27/we-had-some-amazingly-beautiful.html",
 				
-				"content_html": "<p>We had some amazingly beautiful weather yesterday in Paradise Bay, Antarctica. Saw lots of Gentoo Penguins 🐧 and Humpback Whales 🐋.</p>\n<img src=\"https://spacenerdmo.org/uploads/2025/3d394ac0b5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>We had some amazingly beautiful weather yesterday in Paradise Bay, Antarctica. Saw lots of Gentoo Penguins 🐧 and Humpback Whales 🐋.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "We had some amazingly beautiful weather yesterday in Paradise Bay, Antarctica. Saw lots of Gentoo Penguins 🐧 and Humpback Whales 🐋. \n\n\n<img src=\"https://spacenerdmo.org/uploads/2025/3d394ac0b5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-02-27T03:15:10-08:00",
 				"url": "https://spacenerdmo.org/2025/02/27/we-had-some-amazingly-beautiful.html"
@@ -185,7 +257,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/02/25/another-shot-of-elephant-island.html",
 				
-				"content_html": "<p>Another shot of Elephant Island.</p>\n<p><img src=\"https://spacenerdmo.org/uploads/2025/db8ef77369.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2025/1a8415b499.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_html": "<p>Another shot of Elephant Island.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Another shot of Elephant Island. \n\n<img src=\"https://spacenerdmo.org/uploads/2025/db8ef77369.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2025/1a8415b499.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-02-25T05:59:00-08:00",
 				"url": "https://spacenerdmo.org/2025/02/25/another-shot-of-elephant-island.html"
@@ -193,7 +265,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/02/25/made-it-to-antarctica-this.html",
 				
-				"content_html": "<p>Made it to Antarctica this morning. A bit windy and cold here. 🥶</p>\n<p><img src=\"https://spacenerdmo.org/uploads/2025/d89058885f.jpg\" width=\"450\" height=\"600\" alt=\"Selfie of myself with the Antarctic Ocean and Elephant Island in the background. \"><img src=\"https://spacenerdmo.org/uploads/2025/64b0d6d995.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_html": "<p>Made it to Antarctica this morning. A bit windy and cold here. 🥶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Made it to Antarctica this morning. A bit windy and cold here. 🥶\n\n<img src=\"https://spacenerdmo.org/uploads/2025/d89058885f.jpg\" width=\"450\" height=\"600\" alt=\"Selfie of myself with the Antarctic Ocean and Elephant Island in the background. \"><img src=\"https://spacenerdmo.org/uploads/2025/64b0d6d995.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-02-25T04:33:52-08:00",
 				"url": "https://spacenerdmo.org/2025/02/25/made-it-to-antarctica-this.html"
@@ -201,7 +273,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/02/25/found-some-of-those-gentoo.html",
 				
-				"content_html": "<p>Found some of those Gentoo folk on the beach at the Falkland Islands a couple of days ago.</p>\n<img src=\"https://spacenerdmo.org/uploads/2025/ce6eb8e278.jpg\" width=\"600\" height=\"450\" alt=\"Group of young Gentoo Penguins standing and laying on the beach. \">\n",
+				"content_html": "<p>Found some of those Gentoo folk on the beach at the Falkland Islands a couple of days ago.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Found some of those Gentoo folk on the beach at the Falkland Islands a couple of days ago. \n\n\n\n<img src=\"https://spacenerdmo.org/uploads/2025/ce6eb8e278.jpg\" width=\"600\" height=\"450\" alt=\"Group of young Gentoo Penguins standing and laying on the beach. \">\n",
 				"date_published": "2025-02-25T02:34:24-08:00",
 				"url": "https://spacenerdmo.org/2025/02/25/found-some-of-those-gentoo.html"
@@ -209,7 +281,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/02/21/i-made-some-new-friends.html",
 				
-				"content_html": "<p>I made some new friends today at Magdalena Island, Chile.</p>\n<img src=\"https://spacenerdmo.org/uploads/2025/07bb9f0680.jpg\" width=\"450\" height=\"600\" alt=\"A group of Magellanic Penguins on the hillside in front of a lighthouse. \">\n",
+				"content_html": "<p>I made some new friends today at Magdalena Island, Chile.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I made some new friends today at Magdalena Island, Chile. \n\n\n\n<img src=\"https://spacenerdmo.org/uploads/2025/07bb9f0680.jpg\" width=\"450\" height=\"600\" alt=\"A group of Magellanic Penguins on the hillside in front of a lighthouse. \">\n",
 				"date_published": "2025-02-21T13:06:52-08:00",
 				"url": "https://spacenerdmo.org/2025/02/21/i-made-some-new-friends.html"
@@ -217,7 +289,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/02/17/la-uvita-and-tango-at.html",
 				
-				"content_html": "<p>La Uvita and Tango at Baar Fun Fun in Montevideo Uruguay.  Salut!</p>\n<img src=\"https://spacenerdmo.org/uploads/2025/c85afe17dd.jpg\" width=\"475\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>La Uvita and Tango at Baar Fun Fun in Montevideo Uruguay.  Salut!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "La Uvita and Tango at Baar Fun Fun in Montevideo Uruguay.  Salut!\n\n<img src=\"https://spacenerdmo.org/uploads/2025/c85afe17dd.jpg\" width=\"475\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-17T09:18:39-08:00",
 				"url": "https://spacenerdmo.org/2025/02/17/la-uvita-and-tango-at.html"
@@ -257,7 +329,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/02/08/more-snow-this-morning.html",
 				
-				"content_html": "<p>More snow this morning.</p>\n<img src=\"https://spacenerdmo.org/uploads/2025/bd7950ecde.jpg\" width=\"600\" height=\"450\" alt=\"Looking out across a street with snow covered trees and houses. \">\n",
+				"content_html": "<p>More snow this morning.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "More snow this morning. \n\n\n\n<img src=\"https://spacenerdmo.org/uploads/2025/bd7950ecde.jpg\" width=\"600\" height=\"450\" alt=\"Looking out across a street with snow covered trees and houses. \">\n",
 				"date_published": "2025-02-08T07:44:48-08:00",
 				"url": "https://spacenerdmo.org/2025/02/08/more-snow-this-morning.html"
@@ -265,7 +337,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/02/05/hello-snow.html",
 				
-				"content_html": "<p>Hello snow.</p>\n<img src=\"https://spacenerdmo.org/uploads/2025/3cccf4dd697e4cfdab18015a1b915727.jpg\" width=\"450\" height=\"600\" alt=\"Snow covered sidewalks and street with snow covered cars parked.  \">\n",
+				"content_html": "<p>Hello snow.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Hello snow. \n\n<img src=\"https://spacenerdmo.org/uploads/2025/3cccf4dd697e4cfdab18015a1b915727.jpg\" width=\"450\" height=\"600\" alt=\"Snow covered sidewalks and street with snow covered cars parked.  \">\n",
 				"date_published": "2025-02-05T06:01:06-08:00",
 				"url": "https://spacenerdmo.org/2025/02/05/hello-snow.html"
@@ -281,7 +353,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2025/01/28/time-for-some-hard-core.html",
 				
-				"content_html": "<p>Time for some hard core gaming this evening. 🕹️</p>\n<img src=\"https://spacenerdmo.org/uploads/2025/ca662aa955fe42dfa0601947e6125cf1.jpg\" width=\"600\" height=\"572\" alt=\"Atari 7800+ console with Bentley Bear's Crystal Quest cartridge inserted and game pad next to it. \">\n",
+				"content_html": "<p>Time for some hard core gaming this evening. 🕹️</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Time for some hard core gaming this evening. 🕹️\n\n<img src=\"https://spacenerdmo.org/uploads/2025/ca662aa955fe42dfa0601947e6125cf1.jpg\" width=\"600\" height=\"572\" alt=\"Atari 7800+ console with Bentley Bear's Crystal Quest cartridge inserted and game pad next to it. \">\n",
 				"date_published": "2025-01-28T19:14:39-08:00",
 				"url": "https://spacenerdmo.org/2025/01/28/time-for-some-hard-core.html"
@@ -305,7 +377,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/12/25/playing-wyrmspan.html",
 				
-				"content_html": "<p>Playing Wyrmspan. 😁</p>\n<img src=\"https://spacenerdmo.org/uploads/2024/14812730f8f641168e4cdfd862058a61.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Playing Wyrmspan. 😁</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Playing Wyrmspan. 😁\n\n<img src=\"https://spacenerdmo.org/uploads/2024/14812730f8f641168e4cdfd862058a61.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-12-25T16:25:45-08:00",
 				"url": "https://spacenerdmo.org/2024/12/25/playing-wyrmspan.html"
@@ -345,7 +417,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/12/15/glhwein.html",
 				
-				"content_html": "<p>Glühwein. 😋</p>\n<img src=\"https://spacenerdmo.org/uploads/2024/68ffa2aeb7204931b6232c36965c1d94.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Glühwein. 😋</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Glühwein. 😋\n\n<img src=\"https://spacenerdmo.org/uploads/2024/68ffa2aeb7204931b6232c36965c1d94.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-15T18:52:24-08:00",
 				"url": "https://spacenerdmo.org/2024/12/15/glhwein.html"
@@ -353,7 +425,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/12/15/seattle-christmas-market.html",
 				
-				"content_html": "<p>Seattle Christmas Market. 🎄</p>\n<img src=\"https://spacenerdmo.org/uploads/2024/4cbe00bb5371461a8b77818f83f9db81.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Seattle Christmas Market. 🎄</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Seattle Christmas Market. 🎄\n\n<img src=\"https://spacenerdmo.org/uploads/2024/4cbe00bb5371461a8b77818f83f9db81.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-15T18:49:28-08:00",
 				"url": "https://spacenerdmo.org/2024/12/15/seattle-christmas-market.html"
@@ -369,7 +441,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/11/28/playing-some-catan.html",
 				
-				"content_html": "<p>Playing some Catan Seafarers today.</p>\n<img src=\"https://spacenerdmo.org/uploads/2024/8af85d43c3844d65b8e39307521e3c02.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Playing some Catan Seafarers today.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Playing some Catan Seafarers today. \n\n<img src=\"https://spacenerdmo.org/uploads/2024/8af85d43c3844d65b8e39307521e3c02.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-11-28T11:14:05-08:00",
 				"url": "https://spacenerdmo.org/2024/11/28/playing-some-catan.html"
@@ -377,7 +449,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/11/17/catan-starfarers-duel.html",
 				
-				"content_html": "<p>Catan Starfarers Duel to round out the weekend.</p>\n<img src=\"https://spacenerdmo.org/uploads/2024/42cb53526bb64524a83d6c4de0291fd6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Catan Starfarers Duel to round out the weekend.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Catan Starfarers Duel to round out the weekend. \n\n<img src=\"https://spacenerdmo.org/uploads/2024/42cb53526bb64524a83d6c4de0291fd6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-11-17T17:29:36-08:00",
 				"url": "https://spacenerdmo.org/2024/11/17/catan-starfarers-duel.html"
@@ -385,7 +457,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/11/16/a-bit-of.html",
 				
-				"content_html": "<p>A bit of Rails &amp; Sails with the family this evening.</p>\n<img src=\"https://spacenerdmo.org/uploads/2024/36ea6963110a4efeb7427a9bd9317cfd.jpg\" width=\"450\" height=\"600\" alt=\"Ticket to Ride Rails and Sails game board with the color game pieces and game cards on the table. \">\n",
+				"content_html": "<p>A bit of Rails &amp; Sails with the family this evening.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "A bit of Rails & Sails with the family this evening. \n\n<img src=\"https://spacenerdmo.org/uploads/2024/36ea6963110a4efeb7427a9bd9317cfd.jpg\" width=\"450\" height=\"600\" alt=\"Ticket to Ride Rails and Sails game board with the color game pieces and game cards on the table. \">\n",
 				"date_published": "2024-11-16T18:57:49-08:00",
 				"url": "https://spacenerdmo.org/2024/11/16/a-bit-of.html"
@@ -409,7 +481,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/11/09/seagl-day-two.html",
 				
-				"content_html": "<p>SeaGL day two. Let’s go!</p>\n<img src=\"https://spacenerdmo.org/uploads/2024/cde656e6bbb2451b94dbcf37b773ba59.jpg\" width=\"450\" height=\"600\" alt=\"Holding an attendee badge for SeaGL\">\n",
+				"content_html": "<p>SeaGL day two. Let’s go!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "SeaGL day two. Let’s go!\n\n<img src=\"https://spacenerdmo.org/uploads/2024/cde656e6bbb2451b94dbcf37b773ba59.jpg\" width=\"450\" height=\"600\" alt=\"Holding an attendee badge for SeaGL\">\n",
 				"date_published": "2024-11-09T09:06:05-08:00",
 				"url": "https://spacenerdmo.org/2024/11/09/seagl-day-two.html"
@@ -425,7 +497,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/10/10/aurora-over-the.html",
 				
-				"content_html": "<p>Aurora over the Puget Sound</p>\n<img src=\"https://spacenerdmo.org/uploads/2024/5263e32bfcbb4844bcebf40d18bb7057.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Aurora over the Puget Sound</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Aurora over the Puget Sound \n\n<img src=\"https://spacenerdmo.org/uploads/2024/5263e32bfcbb4844bcebf40d18bb7057.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-10T18:47:30-08:00",
 				"url": "https://spacenerdmo.org/2024/10/10/aurora-over-the.html"
@@ -433,7 +505,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/10/04/beware-the-kraken.html",
 				
-				"content_html": "<p>Beware the Kraken!</p>\n<img src=\"https://spacenerdmo.org/uploads/2024/6963baaf6d91429a95633f204d4f4787.jpg\" width=\"600\" height=\"450\" alt=\"Side of the Fairmont Olympic Hotel in Seattle with a big tentacle sticking out of a window. \">\n",
+				"content_html": "<p>Beware the Kraken!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Beware the Kraken!\n\n<img src=\"https://spacenerdmo.org/uploads/2024/6963baaf6d91429a95633f204d4f4787.jpg\" width=\"600\" height=\"450\" alt=\"Side of the Fairmont Olympic Hotel in Seattle with a big tentacle sticking out of a window. \">\n",
 				"date_published": "2024-10-04T10:47:45-08:00",
 				"url": "https://spacenerdmo.org/2024/10/04/beware-the-kraken.html"
@@ -441,7 +513,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/10/02/greenlake-at-dusk.html",
 				
-				"content_html": "<p>Greenlake at dusk.</p>\n<img src=\"https://spacenerdmo.org/uploads/2024/ebd61af2b6574dada1df607161439038.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Greenlake at dusk.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Greenlake at dusk. \n\n<img src=\"https://spacenerdmo.org/uploads/2024/ebd61af2b6574dada1df607161439038.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-10-02T17:49:14-08:00",
 				"url": "https://spacenerdmo.org/2024/10/02/greenlake-at-dusk.html"
@@ -449,7 +521,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/09/28/fort-casey-and.html",
 				
-				"content_html": "<p>Fort Casey and Admiralty Head Lighthouse</p>\n<p><img src=\"https://spacenerdmo.org/uploads/2024/547ba30538684fb08b7b70acc1c3f2b9.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/28aad764e898495e9f26943c048b004e.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/7d461e61b9da4c6cb1ca5edc7db5c3bc.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/7ef872f044294676960c59add4266d0b.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_html": "<p>Fort Casey and Admiralty Head Lighthouse</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Fort Casey and Admiralty Head Lighthouse \n\n<img src=\"https://spacenerdmo.org/uploads/2024/547ba30538684fb08b7b70acc1c3f2b9.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/28aad764e898495e9f26943c048b004e.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/7d461e61b9da4c6cb1ca5edc7db5c3bc.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/7ef872f044294676960c59add4266d0b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-09-28T13:37:22-08:00",
 				"url": "https://spacenerdmo.org/2024/09/28/fort-casey-and.html"
@@ -457,7 +529,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/09/26/mood.html",
 				
-				"content_html": "<p>Mood</p>\n<img src=\"https://spacenerdmo.org/uploads/2024/3b0453db539a4560b471a0f726427824.jpg\" width=\"600\" height=\"357\" alt=\"\">\n",
+				"content_html": "<p>Mood</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Mood\n\n<img src=\"https://spacenerdmo.org/uploads/2024/3b0453db539a4560b471a0f726427824.jpg\" width=\"600\" height=\"357\" alt=\"\">\n",
 				"date_published": "2024-09-26T19:10:35-08:00",
 				"url": "https://spacenerdmo.org/2024/09/26/mood.html"
@@ -465,7 +537,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/09/20/bellingham-bay-and.html",
 				
-				"content_html": "<p>Bellingham Bay and Samish Bay</p>\n<p><img src=\"https://spacenerdmo.org/uploads/2024/93f57b39478c4b059132db8ea513755c.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/d278ac72a1db4105ae70292c48c34321.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/fca6bd4d05aa42f2affea45a93f0ed5a.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_html": "<p>Bellingham Bay and Samish Bay</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Bellingham Bay and Samish Bay\n\n<img src=\"https://spacenerdmo.org/uploads/2024/93f57b39478c4b059132db8ea513755c.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/d278ac72a1db4105ae70292c48c34321.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/fca6bd4d05aa42f2affea45a93f0ed5a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-09-20T13:14:24-08:00",
 				"url": "https://spacenerdmo.org/2024/09/20/bellingham-bay-and.html"
@@ -473,7 +545,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/09/10/currently-reading-pandoras.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780330466493/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780330466493\">Pandora&rsquo;s Star</a> by Peter F. Hamilton 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780330466493\">Pandora&rsquo;s Star</a> by Peter F. Hamilton 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780330466493/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Pandora's Star](https://micro.blog/books/9780330466493) by Peter F. Hamilton 📚\n",
 				"date_published": "2024-09-10T14:52:17-08:00",
 				"url": "https://spacenerdmo.org/2024/09/10/currently-reading-pandoras.html"
@@ -489,7 +561,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/09/08/explored-shoreview-parkboeing.html",
 				
-				"content_html": "<p>Explored Shoreview Park/Boeing Creek Park this afternoon.</p>\n<p><img src=\"https://spacenerdmo.org/uploads/2024/94ca3bb3d68d49eaaa3f6811719883c0.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/60313ff365954d64a31ffce02f42e9e7.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_html": "<p>Explored Shoreview Park/Boeing Creek Park this afternoon.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Explored Shoreview Park/Boeing Creek Park this afternoon.\n\n<img src=\"https://spacenerdmo.org/uploads/2024/94ca3bb3d68d49eaaa3f6811719883c0.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/60313ff365954d64a31ffce02f42e9e7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-09-08T16:32:55-08:00",
 				"url": "https://spacenerdmo.org/2024/09/08/explored-shoreview-parkboeing.html"
@@ -497,7 +569,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/09/02/afternoon-stroll-through.html",
 				
-				"content_html": "<p>Afternoon stroll through Ravenna Park.</p>\n<p><img src=\"https://spacenerdmo.org/uploads/2024/d3662c2594e442d7a0fc2e03222f86e1.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/7ee79949a7604047aaf842bcfe54d9e2.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/bf078a68e638444e96220b8297e6c1e2.jpg\" width=\"600\" height=\"495\" alt=\"\"></p>\n",
+				"content_html": "<p>Afternoon stroll through Ravenna Park.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Afternoon stroll through Ravenna Park. \n\n<img src=\"https://spacenerdmo.org/uploads/2024/d3662c2594e442d7a0fc2e03222f86e1.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/7ee79949a7604047aaf842bcfe54d9e2.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/bf078a68e638444e96220b8297e6c1e2.jpg\" width=\"600\" height=\"495\" alt=\"\">\n",
 				"date_published": "2024-09-02T14:35:15-08:00",
 				"url": "https://spacenerdmo.org/2024/09/02/afternoon-stroll-through.html"
@@ -521,7 +593,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/08/28/afternoon-at-the.html",
 				
-				"content_html": "<p>Afternoon at the ballpark.</p>\n<img src=\"https://spacenerdmo.org/uploads/2024/d0bbd621c1af4334815399375213a552.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Afternoon at the ballpark.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Afternoon at the ballpark. \n\n<img src=\"https://spacenerdmo.org/uploads/2024/d0bbd621c1af4334815399375213a552.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-28T12:53:24-08:00",
 				"url": "https://spacenerdmo.org/2024/08/28/afternoon-at-the.html"
@@ -537,7 +609,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/08/06/live-performance-by.html",
 				
-				"content_html": "<p>Live performance by Shamarr Allen at work today. Makes for a nice break in the stressful day job.</p>\n<img src=\"https://spacenerdmo.org/uploads/2024/85d3f5041ac043318562bf91e141dc69.jpg\" width=\"600\" height=\"569\" alt=\"\">\n",
+				"content_html": "<p>Live performance by Shamarr Allen at work today. Makes for a nice break in the stressful day job.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Live performance by Shamarr Allen at work today. Makes for a nice break in the stressful day job. \n\n<img src=\"https://spacenerdmo.org/uploads/2024/85d3f5041ac043318562bf91e141dc69.jpg\" width=\"600\" height=\"569\" alt=\"\">\n",
 				"date_published": "2024-08-06T12:25:47-08:00",
 				"url": "https://spacenerdmo.org/2024/08/06/live-performance-by.html"
@@ -553,7 +625,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/08/05/tonights-silent-movie.html",
 				
-				"content_html": "<p>Tonight’s Silent Movie Monday.</p>\n<img src=\"https://spacenerdmo.org/uploads/2024/37fdceb06b344c55a955137e85cd8485.jpg\" width=\"600\" height=\"486\" alt=\"\">\n",
+				"content_html": "<p>Tonight’s Silent Movie Monday.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Tonight’s Silent Movie Monday. \n\n<img src=\"https://spacenerdmo.org/uploads/2024/37fdceb06b344c55a955137e85cd8485.jpg\" width=\"600\" height=\"486\" alt=\"\">\n",
 				"date_published": "2024-08-05T17:48:23-08:00",
 				"url": "https://spacenerdmo.org/2024/08/05/tonights-silent-movie.html"
@@ -561,7 +633,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/08/04/sunday-afternoon-visiting.html",
 				
-				"content_html": "<p>Sunday afternoon visiting the lighthouse in Mukilteo.</p>\n<p><img src=\"https://spacenerdmo.org/uploads/2024/951a93301b5847ea88c5095b3d21364e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/e58ab80816594071ad83d7b0cf0a3a43.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/7891b15ca67e449588bec58b25eef4ba.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_html": "<p>Sunday afternoon visiting the lighthouse in Mukilteo.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Sunday afternoon visiting the lighthouse in Mukilteo. \n\n<img src=\"https://spacenerdmo.org/uploads/2024/951a93301b5847ea88c5095b3d21364e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/e58ab80816594071ad83d7b0cf0a3a43.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://spacenerdmo.org/uploads/2024/7891b15ca67e449588bec58b25eef4ba.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-04T13:37:27-08:00",
 				"url": "https://spacenerdmo.org/2024/08/04/sunday-afternoon-visiting.html"
@@ -609,7 +681,7 @@
 			{
 				"id": "http://spacenerdmo.micro.blog/2024/07/23/its-that-time.html",
 				
-				"content_html": "<p>It’s that time again. Having a cookie and giving some blood. 🩸</p>\n<img src=\"https://spacenerdmo.org/uploads/2024/image.jpg\" width=\"600\" height=\"337\" alt=\"Scene from Disenchantment, Elfo sitting in a cage eating a cookie while being drained of blood. \">\n",
+				"content_html": "<p>It’s that time again. Having a cookie and giving some blood. 🩸</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "It’s that time again. Having a cookie and giving some blood. 🩸\n\n<img src=\"https://spacenerdmo.org/uploads/2024/image.jpg\" width=\"600\" height=\"337\" alt=\"Scene from Disenchantment, Elfo sitting in a cage eating a cookie while being drained of blood. \">\n",
 				"date_published": "2024-07-23T10:07:33-08:00",
 				"url": "https://spacenerdmo.org/2024/07/23/its-that-time.html"
