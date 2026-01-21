@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://spacenerdmo.micro.blog/2026/01/20/got-some-awesome-new-games.html",
+				
+				"content_html": "<p>Got some awesome new games for my orbit around the sun. 😃</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Got some awesome new games for my orbit around the sun. 😃\n\n\n\n<img src=\"uploads/2026/c8ce989284.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-20T19:52:14-08:00",
+				"url": "https://spacenerdmo.org/2026/01/20/got-some-awesome-new-games.html"
+			},
+			{
 				"id": "http://spacenerdmo.micro.blog/2026/01/18/in-an-attempt-to-start.html",
 				
 				"content_html": "<p>In an attempt to start this next orbit around the sun in a better place mentally I nuked my Bluesky account today.</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://spacenerdmo.micro.blog/2025/12/25/meowy-christmas.html",
 				
 				"content_html": "<p>Meowy Christmas!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Meowy Christmas!\n\n\n\n<img src=\"uploads/2025/051bc02e98.jpg\" width=\"450\" height=\"600\" alt=\"Fluffy cat sitting in front of a fireplace with full Christmas stockings hung just above it. \">\n",
+				"content_text": "Meowy Christmas!\n\n\n\n<img src=\"https://spacenerdmo.org/uploads/2025/051bc02e98.jpg\" width=\"450\" height=\"600\" alt=\"Fluffy cat sitting in front of a fireplace with full Christmas stockings hung just above it. \">\n",
 				"date_published": "2025-12-25T06:52:43-08:00",
 				"url": "https://spacenerdmo.org/2025/12/25/meowy-christmas.html"
 			},
